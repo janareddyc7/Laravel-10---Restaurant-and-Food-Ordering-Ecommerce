@@ -1,5 +1,4 @@
-<p>In Laravel 10 - Restaurant and Food Ordering Ecommerce (2023), you'll acquire the skills and knowledge needed to build a feature-rich restaurant and food ordering platform. Our comprehensive curriculum covers a wide range of advanced functionalities, including:
-
+<p>this project is work in progress and will be done in 2 or 1 minth i will show how to run step by step at that time
 Building a Restaurant and Food Ordering Ecommerce Platform from Scratch
 
 Mastering Laravel Fundamentals
